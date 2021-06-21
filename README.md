@@ -1,1 +1,1 @@
-# Resources for Use at an Innovation Circuit Event
+# Innovation Circuit Event Resources 
