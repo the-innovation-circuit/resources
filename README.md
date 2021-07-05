@@ -1,6 +1,6 @@
 # Innovation Circuit Event Resources 
 
-We love to help you with some great resources!
+We love to help you with some great resources! More documentation coming soon.
 
 ### Workshops
 
